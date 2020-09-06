@@ -3,7 +3,7 @@ Api test model project in Node.js and Express.js.
 
 # Hexagon
 
-![hexagon {w=30%}](Images/hexagon.png)
+![hexagon {width=30%}](Images/hexagon.png)
 
 # Instructions
 
