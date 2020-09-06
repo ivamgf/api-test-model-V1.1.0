@@ -1,0 +1,25 @@
+{
+  "name": "api-hexagon-teste-model",
+  "version": "1.1.0",
+  "description": "api hexagon test model project version 1.1.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivamgf/api-test-model-V1.1.0.git"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "model",
+    "hexagon"
+  ],
+  "author": "ivam galvao filho",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ivamgf/api-test-model-V1.1.0/issues"
+  },
+  "homepage": "https://github.com/ivamgf/api-test-model-V1.1.0#readme"
+}
