@@ -83,4 +83,8 @@ or with nodemon
 ``
 $ nodemon
 ``
+or
+``
+$ npm run start
+``
 
