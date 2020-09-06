@@ -3,7 +3,7 @@ Api test model project in Node.js and Express.js.
 
 # Hexagon
 
-![hexagon](images/hexagon.png)
+![hexagon](Images/hexagon.png)
 
 # Instructions
 
@@ -11,19 +11,26 @@ Api test model project in Node.js and Express.js.
 
 ``
 $ npm init
-
+``
+``
 $ npm install express --save
-
+``
+``
 $ npm install express-generator -g
-
+``
+``
 $ npm install -D nodemon
-
+``
+``
 $ npm install mongoose --save
-
+``
+``
 $ npm install require-dir
-
+``
+``
 $ npm install mongoose-paginate
-
+``
+``
 $ npm install cors
 ``
 ## Options
